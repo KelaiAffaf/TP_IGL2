@@ -4,8 +4,8 @@
 public class VectorHelper {
 
 
-   private int vector[] = {51, 24, 19, 5, 37, 76, 61, 99, 101, 36};
-   private int size;
+   private int vector[] = {5,2,3,6,1};
+   private int size = 5;
 
     public VectorHelper() {
     }
@@ -45,22 +45,22 @@ public class VectorHelper {
      */
 
     public int [] sortV (){
-        int [] tmpV = new int[size];
+        int [] tmpV ;
         int tmp ;
         boolean bool = false;
         tmpV=vector;
         while (!bool){
-            for (int i=0 ;i<size;i++)
+            for (int i=0 ;i<size-1;i++)
             {
+                bool = true;
                 if(tmpV[i]>tmpV[i+1]){
                     tmp = tmpV[i];
                     tmpV[i] = tmpV[i+1];
                     tmpV[i+1] = tmp;
+                    System.out.println(tmp+"\n");
+                    bool = false;
+                }
 
-                }
-                else {
-                    bool = true;
-                }
             }
         }
         return tmpV;
