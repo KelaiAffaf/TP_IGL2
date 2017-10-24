@@ -39,7 +39,11 @@ public class VectorHelper {
             System.out.println("V");
         }
     }
-        public int [] sortV (){
+       /**
+     * Une méthode qui permet de trier les éléments du vecteur.
+     */
+
+    public int [] sortV (){
         int [] tmpV = new int[size];
         int tmp ;
         boolean bool = false;
@@ -60,7 +64,10 @@ public class VectorHelper {
         }
         return tmpV;
     }
-
+}
+/**
+* Une méthode qui fait la somme de deux vecteurs.
+*/
  public int [] sommeVectors (int [] vecteur, int size)
 {   
     int [] tmp = new int [this.size];
@@ -72,6 +79,9 @@ public class VectorHelper {
     return tmp;
 
 }
+/**
+*Une méthode qui permet l'inversement du vecteur.
+*/
 public int [] InversingV ()
 {
     int [] tmp = new int [this.size];
