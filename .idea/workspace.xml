@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6e8ceb8b-88d1-4a7b-89db-3bcb5ebfe263" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
     </list>
     <ignored path="IGL.iws" />
+=======
+    <list default="true" id="5a910efa-0a2a-4f12-94bc-1b6128a9f90f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Testes/VectorHelperTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/VectorHelper.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TP_IGL2.iml" afterPath="$PROJECT_DIR$/TP_IGL2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/VectorHelper.java" afterPath="$PROJECT_DIR$/src/VectorHelper.java" />
+    </list>
+    <ignored path="TP_IGL2.iws" />
+>>>>>>> main2
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,18 +39,42 @@
       <file leaf-file-name="VectorHelper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+=======
+            <state relative-caret-position="51">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <folding>
+                <element signature="e#80#81#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+              </folding>
+>>>>>>> main2
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VectorHelper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="204">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+=======
+            <state relative-caret-position="17">
+              <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file leaf-file-name="VectorHelperTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Testes/VectorHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+>>>>>>> main2
               <folding />
             </state>
           </provider>
@@ -48,7 +85,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
         <option value="Class" />
+=======
+>>>>>>> main2
         <option value="JUnit4 Test Class" />
       </list>
     </option>
@@ -66,6 +106,9 @@
       <list>
         <option value="$PROJECT_DIR$/Testes/VectorHelperTest.groovy" />
         <option value="$PROJECT_DIR$/src/DiffrentSizeException.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/Testes/VectorHelperTest.groovy" />
+        <option value="$PROJECT_DIR$/Testes/VectorHelperTest.java" />
         <option value="$PROJECT_DIR$/src/VectorHelper.java" />
         <option value="$PROJECT_DIR$/Testes/VectorHelperTest.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
@@ -74,6 +117,10 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
+<<<<<<< HEAD
+=======
+    <option name="y" value="-8" />
+>>>>>>> main2
     <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
@@ -102,6 +149,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+>>>>>>> main2
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -158,11 +211,18 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+>>>>>>> main2
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+<<<<<<< HEAD
+=======
+    <property name="last_opened_file_path" value="$USER_HOME$/IGL" />
+>>>>>>> main2
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -170,6 +230,7 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+<<<<<<< HEAD
       <recent name="groovy.util.GroovyTestCase" />
     </key>
   </component>
@@ -214,6 +275,24 @@
       </option>
       <envs />
       <patterns />
+=======
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VectorHelperTest.sortV">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TP_IGL2" />
+      <envs />
+>>>>>>> main2
       <method />
     </configuration>
     <configuration default="false" name="VectorHelperTest.sortV" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -226,8 +305,13 @@
       <option name="METHOD_NAME" value="sortV" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
+<<<<<<< HEAD
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+=======
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+>>>>>>> main2
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -401,7 +485,11 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
+<<<<<<< HEAD
       <module name="IGL" />
+=======
+      <module name="TP_IGL2" />
+>>>>>>> main2
       <envs />
       <method />
     </configuration>
@@ -481,6 +569,7 @@
       <listeners />
       <method />
     </configuration>
+<<<<<<< HEAD
     <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JUnit.VectorHelperTest.inversingV" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.VectorHelperTest.sortV1" />
@@ -491,6 +580,16 @@
         <item index="0" class="java.lang.String" itemvalue="JUnit.VectorHelperTest.sortV" />
         <item index="1" class="java.lang.String" itemvalue="JUnit.VectorHelperTest.sortV1" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.VectorHelperTest.inversingV" />
+=======
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.VectorHelperTest.sortV" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.VectorHelperTest.sortV" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+>>>>>>> main2
       </list>
     </recent_temporary>
   </component>
@@ -511,6 +610,7 @@
     <servers />
   </component>
   <component name="TestHistory">
+<<<<<<< HEAD
     <history-entry file="VectorHelperTest_sortV - 2017.10.24 at 22h 49m 24s.xml">
       <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
     </history-entry>
@@ -545,6 +645,42 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1378" height="744" extended-state="0" />
     <editor active="false" />
+=======
+    <history-entry file="VectorHelperTest_sortV - 2017.10.24 at 23h 04m 30s.xml">
+      <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHelperTest_sortV - 2017.10.24 at 23h 04m 40s.xml">
+      <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHelperTest_sortV - 2017.10.24 at 23h 05m 10s.xml">
+      <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHelperTest_sortV - 2017.10.24 at 23h 05m 51s.xml">
+      <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHelperTest_sortV - 2017.10.24 at 23h 06m 45s.xml">
+      <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHelperTest_sortV - 2017.10.24 at 23h 11m 07s.xml">
+      <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHelperTest_sortV - 2017.10.24 at 23h 13m 19s.xml">
+      <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHelperTest_sortV - 2017.10.24 at 23h 13m 38s.xml">
+      <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHelperTest_sortV - 2017.10.24 at 23h 14m 49s.xml">
+      <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHelperTest_sortV - 2017.10.24 at 23h 16m 15s.xml">
+      <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <editor active="true" />
+>>>>>>> main2
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -585,6 +721,16 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+<<<<<<< HEAD
+=======
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Testes/VectorHelperTest.java</url>
+          <line>10</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+>>>>>>> main2
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
@@ -596,6 +742,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding>
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -603,6 +760,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
+<<<<<<< HEAD
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiffrentSizeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding>
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+>>>>>>> main2
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -627,10 +806,33 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/Testes/VectorHelperTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testes/VectorHelperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+>>>>>>> main2
           <folding />
         </state>
       </provider>
@@ -639,6 +841,7 @@
     <entry file="file://$PROJECT_DIR$/src/DiffrentSizeException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
+<<<<<<< HEAD
           <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
@@ -657,13 +860,25 @@
         <state relative-caret-position="204">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
+=======
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding>
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+>>>>>>> main2
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state relative-caret-position="17">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+>>>>>>> main2
           <folding />
         </state>
       </provider>
