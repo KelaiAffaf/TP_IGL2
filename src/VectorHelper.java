@@ -45,11 +45,9 @@ public class VectorHelper {
      */
 
     public int [] sortV (){
-<<<<<<< HEAD
-        int [] tmpV = new int [this.size];
-=======
+
         int [] tmpV ;
->>>>>>> main2
+
         int tmp ;
         boolean bool = false;
         tmpV=vector;
