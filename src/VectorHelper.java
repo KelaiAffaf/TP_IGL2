@@ -45,7 +45,7 @@ public class VectorHelper {
      */
 
     public int [] sortV (){
-        int [] tmpV = new int[size];
+        int [] tmpV = new int [this.size];
         int tmp ;
         boolean bool = false;
         tmpV=vector;
