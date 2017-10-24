@@ -8,7 +8,7 @@ public class Main {
         int maxVal = Integer.MAX_VALUE;
         int minVal = Integer.MIN_VALUE;
 
-        int vector = {1,2,3};
+        int vector = {1,2,3,4};
         for (int nombre:array)
             System.out.print(nombre+" ");
 
