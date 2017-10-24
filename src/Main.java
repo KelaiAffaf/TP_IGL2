@@ -9,6 +9,7 @@ public class Main {
         int minVal = Integer.MIN_VALUE;
 
         int vector = {1,2,3,4};
+
         for (int nombre:array)
             System.out.print(nombre+" ");
 
