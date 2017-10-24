@@ -9,7 +9,7 @@ public class VectorHelper {
     public VectorHelper() {
     }
 
-    public void Max_Min()
+    public void Max_Min(int size)
     {
         int maxVal = Integer.MAX_VALUE;
         int minVal = Integer.MIN_VALUE;
@@ -18,11 +18,11 @@ public class VectorHelper {
         for (int nombre:vector)
             System.out.print(nombre+" ");
 
-        for(int i = 0; i < vector.length; i++){
-            if(array[i] < maxVal)
-                maxVal = array[i];
-            if(array[i] > minVal)
-                minVal = array[i];
+        for(int i = 0; i < size; i++){
+            if(vector[i] < maxVal)
+                maxVal = vector[i];
+            if(vector[i] > minVal)
+                minVal = vector[i];
         }
 
         System.out.print("\nValeur minimale = "+maxVal);
@@ -31,11 +31,11 @@ public class VectorHelper {
 
     }
 
-     public void formule{
+     public void formule (int size){
 
-        for (int i=0 ;i<array.length;i++)
+        for (int i=0 ;i<size;i++)
         {
-            array[i]=(array[i]*6/2);
+            vector[i]=(vector[i]*6/2);
             System.out.println("V");
         }
     }
