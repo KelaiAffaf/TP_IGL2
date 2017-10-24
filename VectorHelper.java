@@ -4,7 +4,7 @@
 public class VectorHelper {
 
 
-   private int array[] = {51, 24, 19, 5, 37, 76, 61, 99, 101, 36};
+   private int vector[] = {51, 24, 19, 5, 37, 76, 61, 99, 101, 36};
 
     public VectorHelper() {
     }
@@ -15,10 +15,10 @@ public class VectorHelper {
         int minVal = Integer.MIN_VALUE;
 
 
-        for (int nombre:array)
+        for (int nombre:vector)
             System.out.print(nombre+" ");
 
-        for(int i = 0; i < array.length; i++){
+        for(int i = 0; i < vector.length; i++){
             if(array[i] < maxVal)
                 maxVal = array[i];
             if(array[i] > minVal)
