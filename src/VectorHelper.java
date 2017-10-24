@@ -32,7 +32,7 @@ public class VectorHelper {
 
     }
 
-     public void formule{
+     public void formule(){
 
         for (int i=0 ;i<this.size;i++)
         {
@@ -65,15 +65,15 @@ public class VectorHelper {
         }
         return tmpV;
     }
-}
+
 /**
 * Une méthode qui fait la somme de deux vecteurs.
 */
- public int [] sommeVectors (int [] vecteur, int size)
+ public int [] sommeVectors (int [] vecteur, int size)throws DiffrentSizeException
 {   
     int [] tmp = new int [this.size];
-    if (size != this.size) throw new DiffrentSizeException (){
-        for (int i = 0,i<this.size;i++){
+    if (size != this.size) throw new DiffrentSizeException ();{
+        for (int i = 0;i<this.size;i++){
             tmp [i] = this.vector[i] + vecteur[i];
         }
     }
