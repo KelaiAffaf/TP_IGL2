@@ -4,8 +4,12 @@
 public class VectorHelper {
 
 
-   private int vector[] = {5,2,3,6,1};
-   private int size = 5;
+    public int[] getVector() {
+        return vector;
+    }
+
+    private int vector[] = {4,3,2,1};
+    private int size = vector.length;
 
     public VectorHelper() {
     }
@@ -41,7 +45,7 @@ public class VectorHelper {
      */
 
 
-      public void formule(){
+      public int [] formule(){
 
          for (int i=0 ;i<vector.length;i++)
         {
@@ -49,6 +53,7 @@ public class VectorHelper {
             System.out.print("  ");
             System.out.print(vector[i]);
         }
+        return vector;
     }
        /**
      * Une méthode qui permet de trier les éléments du vecteur.
@@ -57,7 +62,6 @@ public class VectorHelper {
     public int [] sortV (){
 
         int [] tmpV ;
-
         int tmp ;
         boolean bool = false;
         tmpV=vector;
@@ -69,7 +73,6 @@ public class VectorHelper {
                     tmp = tmpV[i];
                     tmpV[i] = tmpV[i+1];
                     tmpV[i+1] = tmp;
-                    System.out.println(tmp+"\n");
                     bool = false;
                 }
 
@@ -99,9 +102,9 @@ public int [] InversingV ()
 {
     int [] tmp = new int [this.size];
     int j = 0;
-    for (int i = this.size-1;i>=0;i++)
+    for (int i = this.size-1;i>=0;i--)
     {
-        tmp [j] = this.vector[size];
+        tmp [j] = this.vector[i];
         j++;
     }
     return tmp;
