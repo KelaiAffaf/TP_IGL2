@@ -31,6 +31,12 @@ public class VectorHelper {
 
 
     }
+   /**
+     * Cette Methode doit  Appliquer une formule sous forme de fonction à tous les éléments d’un vecteur. Par
+     exemple, ici  multiplier tous les éléments par 6 apres les diviseer par 2.
+
+     */
+
 
      public void formule(){
 
