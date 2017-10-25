@@ -66,9 +66,10 @@ public class VectorHelper {
         boolean bool = false;
         tmpV=vector;
         while (!bool){
+            bool = true;
             for (int i=0 ;i<size-1;i++)
             {
-                bool = true;
+
                 if(tmpV[i]>tmpV[i+1]){
                     tmp = tmpV[i];
                     tmpV[i] = tmpV[i+1];
@@ -78,7 +79,11 @@ public class VectorHelper {
 
             }
         }
-        return tmpV;
+        for (int i=0;i<this.size;i++)
+        {
+            System.out.print(tmpV[i]+"-");
+        }
+            return tmpV;
     }
 
 /**
@@ -91,6 +96,10 @@ public class VectorHelper {
         for (int i = 0;i<this.size;i++){
             tmp [i] = this.vector[i] + vecteur[i];
         }
+    }
+    for (int i=0;i<size;i++)
+    {
+        System.out.print(tmp[i]+"-");
     }
     return tmp;
 
@@ -106,6 +115,10 @@ public int [] InversingV ()
     {
         tmp [j] = this.vector[i];
         j++;
+    }
+    for (int i=0;i<size;i++)
+    {
+        System.out.print(tmp[i]+"-");
     }
     return tmp;
 }

@@ -7,24 +7,35 @@ import static org.junit.Assert.*;
  */
 public class VectorHelperTest {
     @Test
+    public void getVector() throws Exception {
+
+    }
+
+    @Test
+    public void max_Min() throws Exception {
+
+    }
+
+    @Test
     public void formule() throws Exception {
-        VectorHelper test = new VectorHelper();
-        int [] finalResult = {12,9,6,3};
-        assertArrayEquals(finalResult,test.formule());
+
     }
 
     @Test
     public void sortV() throws Exception {
-        VectorHelper test = new VectorHelper();
-        int [] finalResult = {1,2,3,4};
-        assertArrayEquals(finalResult,test.sortV());
+
+    }
+
+    @Test
+    public void sommeVectors() throws Exception {
+        
     }
 
     @Test
     public void inversingV() throws Exception {
         VectorHelper test = new VectorHelper();
-        int [] finalResult = {1,2,3,4};
-        assertArrayEquals(finalResult,test.InversingV());
+        int [] FinalResult = {1,2,3,4};
+        assertArrayEquals(FinalResult,test.InversingV());
     }
 
 }
