@@ -8,7 +8,7 @@ public class Main {
         
         VectorHelper v = new VectorHelper();
         v.Max_Min();
-        System.out.println("***********************************************************")
+        System.out.println("***********************************************************");
         v.formule();
     }
 }
