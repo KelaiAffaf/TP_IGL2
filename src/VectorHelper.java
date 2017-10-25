@@ -38,9 +38,9 @@ public class VectorHelper {
      */
 
 
-     public void formule(){
+      public void formule(){
 
-        for (int i=0 ;i<this.size;i++)
+        for (int i=0 ;i<vector.length;i++)
         {
             vector[i]=(vector[i]*6/2);
             System.out.println("V");
