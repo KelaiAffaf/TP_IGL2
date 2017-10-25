@@ -19,7 +19,7 @@ public class VectorHelper {
         for (int nombre:vector)
             System.out.print(nombre+" ");
 
-        for(int i = 0; i < this.size; i++){
+        for(int i = 0; i < vector.length; i++){
             if(vector[i] < maxVal)
                 maxVal = vector[i];
             if(vector[i] > minVal)
