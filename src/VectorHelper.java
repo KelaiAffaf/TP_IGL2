@@ -9,7 +9,10 @@ public class VectorHelper {
 
     public VectorHelper() {
     }
+  /**
+     * Cette Methode renvoie le Max et le min du vecteur 
 
+     */
     public void Max_Min()
     {
         int maxVal = Integer.MAX_VALUE;
