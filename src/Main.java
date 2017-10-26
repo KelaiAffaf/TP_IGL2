@@ -10,6 +10,7 @@ public class Main {
 
         int [] somme1 ={2,5,6,9};
         VectorHelper v = new VectorHelper();
+        VectorHelper v = new VectorHelper();
 
 
 
