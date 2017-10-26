@@ -24,7 +24,7 @@ public class VectorHelperTest {
     @Test
     public void sortV() throws Exception {
         VectorHelper test = new VectorHelper();
-        int [] finalResult = {5,19,24,51};
+        int [] finalResult = {19,5,24,51};
         assertArrayEquals(finalResult,test.sortV());
     }
 

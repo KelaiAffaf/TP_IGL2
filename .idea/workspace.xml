@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="465fa904-9e87-4856-8a19-3cb52d67986e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP_IGL2/VectorHelper.class" afterPath="$PROJECT_DIR$/out/production/TP_IGL2/VectorHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP_IGL2/Main.class" afterPath="$PROJECT_DIR$/out/production/TP_IGL2/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/TP_IGL2/VectorHelperTest.class" afterPath="$PROJECT_DIR$/out/test/TP_IGL2/VectorHelperTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testes/VectorHelperTest.java" afterPath="$PROJECT_DIR$/Testes/VectorHelperTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/VectorHelper.java" afterPath="$PROJECT_DIR$/src/VectorHelper.java" />
     </list>
     <ignored path="TP_IGL2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="VectorHelper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="411">
+              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -41,8 +40,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+            <state relative-caret-position="187">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -51,8 +50,8 @@
       <file leaf-file-name="VectorHelperTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Testes/VectorHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+            <state relative-caret-position="47">
+              <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -585,15 +584,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VectorHelperTest_inversingV - 2017.10.25 at 12h 45m 01s.xml">
-      <configuration name="VectorHelperTest.inversingV" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VectorHelperTest_inversingV - 2017.10.25 at 13h 13m 39s.xml">
-      <configuration name="VectorHelperTest.inversingV" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VectorHelperTest_inversingV - 2017.10.25 at 13h 14m 39s.xml">
-      <configuration name="VectorHelperTest.inversingV" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="VectorHelperTest_sortV - 2017.10.25 at 12h 46m 05s.xml">
       <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
     </history-entry>
@@ -615,6 +605,15 @@
     <history-entry file="VectorHelperTest_sortV - 2017.10.26 at 14h 18m 41s.xml">
       <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="VectorHelperTest_sortV - 2017.10.26 at 14h 22m 13s.xml">
+      <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHelperTest_sortV - 2017.10.26 at 14h 27m 15s.xml">
+      <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VectorHelperTest_sortV - 2017.10.26 at 14h 27m 37s.xml">
+      <configuration name="VectorHelperTest.sortV" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1372" height="744" extended-state="0" />
@@ -627,7 +626,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4062992" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22519685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -717,24 +716,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        <state relative-caret-position="411">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Testes/VectorHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        <state relative-caret-position="47">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+        <state relative-caret-position="187">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
