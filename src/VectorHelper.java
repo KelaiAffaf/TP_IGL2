@@ -8,7 +8,7 @@ public class VectorHelper {
         return vector;
     }
 
-    private int vector[] = {4,3,2,1};
+    private int vector[] = {51,24,19,5};
     private int size = vector.length;
 
     public VectorHelper() {
