@@ -8,8 +8,12 @@ public class Main {
         
         int vector[] = {51, 24, 19, 5, 37, 76, 61, 99, 101, 36};
 
+
         int [] somme1 ={21,15,23,5};
+
         VectorHelper v = new VectorHelper();
+
+        
      
 
 
