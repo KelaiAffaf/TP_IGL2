@@ -8,9 +8,9 @@ public class Main {
         
         int vector[] = {51, 24, 19, 5, 37, 76, 61, 99, 101, 36};
 
-        int [] somme1 ={2,5,6,9};
+        int [] somme1 ={2,5,6,52,14};
         VectorHelper v = new VectorHelper();
-        
+        VectorHelper v = new VectorHelper();
 
 
 
